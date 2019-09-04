@@ -1,0 +1,115 @@
+body{
+    background-color: rgba(0, 9, 9, 0.8);	
+    padding: 0;
+    margin-top: 0;
+}
+
+.logo{
+	background-color: rgba(255, 0, 239, 0.7);
+	min-height: 120px;
+	margin-top: 30px;
+	margin-left: 45px;
+	margin-right: 45px;
+    position: relative;
+}
+.logo h1 {
+	color: rgb(0, 51, 102);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+.wrapper {
+	overflow: hidden;
+}
+
+.side_bar_navigation{
+	background-color: 	rgb(102, 102, 0);
+	min-height: 495px;
+	width:28%;
+	float:left;
+	margin-right: 10px;
+	margin-left: 45px;
+	margin-top: 10px;
+}
+.side_bar_navigation h1{
+	color: rgb(0, 51, 102);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 1em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.wrapper1{
+	overflow: hidden;
+}
+
+.header{
+	background-color: 	rgba(204, 0, 0, 0.85);
+	min-height: 125px;
+	width: 94%;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 45px;
+}
+.header h1{
+	color: rgb(0, 51, 102);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+.body_area{
+	background-color: green;
+	min-height: 360px;
+	width: 94%;
+	float:left;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 45px;
+
+}
+.body_area h1{
+	color: rgb(0, 51, 102);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.footer{
+	background-color: rgb(153, 0, 153);
+	min-height: 50px;
+	margin-top: 10px;
+	margin-right: 45px;
+	margin-left: 45px;
+	margin-bottom: 30px;
+	clear: both;
+}
+.footer h1{
+	color: white;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
